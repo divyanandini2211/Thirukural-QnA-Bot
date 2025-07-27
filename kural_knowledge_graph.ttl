@@ -1,0 +1,117 @@
+@prefix kural: <http://example.org/kural/> .
+@prefix ont: <http://example.org/ontology#> .
+
+kural:291 a ont:Kural ;
+    ont:englishTranslation "What is called truthfulness? It is speaking words that cause no harm to others." ;
+    ont:ethicalFramework "DutyBased" ;
+    ont:evokesEmotion ont:Clarity ;
+    ont:hasTheme ont:Truthfulness ;
+    ont:modernScenario "During a team meeting, a colleague gives constructive feedback on an idea to avoid discouraging their teammate, rather than bluntly calling the idea bad." ;
+    ont:promotesVirtue ont:Harmlessness_or_ahimsa ;
+    ont:qaAnswer "No, true truthfulness is defined as speaking in a way that is completely free from causing any harm to others." ;
+    ont:qaQuestion "Is being truthful just about saying factually correct things?" ;
+    ont:tamilText "பொய்மையும் வாய்மை இடத்த புரைதீர்ந்த நன்மை பயக்கும் எனின்." .
+
+kural:305 a ont:Kural ;
+    ont:englishTranslation "If one wants to protect himself, he must abandon anger. Otherwise, anger will destroy him." ;
+    ont:ethicalFramework "Focus_on_Results" ;
+    ont:evokesEmotion ont:Warning ;
+    ont:hasTheme ont:Controlling_Anger ;
+    ont:modernScenario """A person with high blood pressure learns to manage their stress and anger to avoid a life-threatening heart attack.
+""" ;
+    ont:promotesVirtue ont:Self_Control ;
+    ont:qaAnswer "Yes. If you don't learn to control your anger, it can eventually destroy you." ;
+    ont:qaQuestion """
+  Is getting angry really that dangerous?""" ;
+    ont:tamilText "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால் தன்னையே கொல்லும் சினம்." .
+
+kural:31 a ont:Kural ;
+    ont:englishTranslation "Virtue will confer heaven and wealth; what greater source of happiness can man possess?" ;
+    ont:ethicalFramework "Consequentialist" ;
+    ont:evokesEmotion ont:Aspiration ;
+    ont:hasTheme ont:ImportanceOfVirtue ;
+    ont:modernScenario "A startup founder builds their company on ethical principles, like fair pay and environmental responsibility, believing that a strong reputation will lead to long-term success and customer loyalty." ;
+    ont:promotesVirtue ont:Rightousness ;
+    ont:qaAnswer "You should be ethical because virtue is the greatest source of both worldly success and inner happiness, providing a better foundation for life than anything else." ;
+    ont:qaQuestion "Why should I bother being an ethical person?" ;
+    ont:tamilText "சிறப்புஈனும் செல்வமும் ஈனும் அறத்தினூஉங்கு ஆக்கம் எவனோ உயிர்க்கு." .
+
+kural:314 a ont:Kural ;
+    ont:englishTranslation "The best way to punish those who have done you wrong is to make them feel ashamed by doing them a favor." ;
+    ont:ethicalFramework "Virtue ethics" ;
+    ont:evokesEmotion ont:Peace ;
+    ont:hasTheme ont:Forgiveness ;
+    ont:modernScenario """\r
+When a coworker publicly criticizes your idea, instead of arguing, you later offer to help them with their own challenging task.""" ;
+    ont:promotesVirtue ont:Kindness ;
+    ont:qaAnswer "Respond with an act of kindness to make them realize their wrongdoing, which is the most effective form of response." ;
+    ont:qaQuestion "How should I react when someone hurts me?" ;
+    ont:tamilText "இன்னா செய்தாரை ஒறுத்தல் அவர்நாண நன்னயம் செய்து விடல்." .
+
+kural:400 a ont:Kural ;
+    ont:englishTranslation "Learning is the true, imperishable wealth; all other forms of wealth are not." ;
+    ont:ethicalFramework "	VirtueEthics" ;
+    ont:evokesEmotion ont:Conviction ;
+    ont:hasTheme ont:Value_of_Knowledge ;
+    ont:modernScenario "During a financial downturn, a person with deep skills finds a new job easily, proving their knowledge is 'imperishable wealth' compared to money." ;
+    ont:promotesVirtue ont:Wisdom ;
+    ont:qaAnswer "The most valuable possession is learning, as it is a form of wealth that can never be lost or destroyed." ;
+    ont:qaQuestion "What is the most valuable thing a person can possess?" ;
+    ont:tamilText "கேடில் விழுச்செல்வம் கல்வி யொருவற்கு மாடல்ல மற்றை யவை." .
+
+kural:435 a ont:Kural ;
+    ont:englishTranslation "One who does not guard against future faults will see their prosperity perish, as quickly as straw before a fire." ;
+    ont:ethicalFramework "Consequentialist" ;
+    ont:evokesEmotion ont:Urgency ;
+    ont:hasTheme ont:Planning ;
+    ont:modernScenario "A student who doesn't study for an exam ahead of time fails the test." ;
+    ont:promotesVirtue ont:Prudence ;
+    ont:qaAnswer "Because if you don't prepare for problems, you can lose everything very quickly, just like straw burning in a fire.\r" ;
+    ont:qaQuestion "Why is it so important to plan ahead?" ;
+    ont:tamilText "வரும்முன்னர்க் காவாதான் வாழ்க்கை எரிமுன்னர் வைத்தூறு போலக் கெடும்." .
+
+kural:467 a ont:Kural ;
+    ont:englishTranslation "One should act only after thinking carefully; it is wrong to think after acting." ;
+    ont:ethicalFramework "Focus_on_Rules" ;
+    ont:evokesEmotion ont:Instruction ;
+    ont:hasTheme ont:Decision_Making ;
+    ont:modernScenario "A person researches cars and their budget before going to the dealership, not after buying one." ;
+    ont:promotesVirtue ont:Thoughtfulness ;
+    ont:qaAnswer "You must do all your thinking before you decide to act. Thinking about it after you've started is a big mistake.\r" ;
+    ont:qaQuestion "When is the right time to think about a big decision?" ;
+    ont:tamilText "எண்ணித் துணிக கருமம் துணிந்தபின் எண்ணுவம் என்பது இழுக்கு." .
+
+kural:471 a ont:Kural ;
+    ont:englishTranslation "One must analyze the strength of the action, one's own strength, the strength of the enemy, and the strength of the one who supports both of them before acting" ;
+    ont:ethicalFramework "Focus_on_Results" ;
+    ont:evokesEmotion ont:Confidence ;
+    ont:hasTheme ont:Strategy ;
+    ont:modernScenario "Before launching a new product, a company analyzes the project difficulty, their team's skills, their competitor's strength, and their partners' support." ;
+    ont:promotesVirtue ont:Analysis ;
+    ont:qaAnswer "Analyze four things first: 1) how hard the task is, 2) your own ability, 3) your opponent's strength, and 4) the support you have from friends." ;
+    ont:qaQuestion "How can I make sure I will succeed before starting a big project?" ;
+    ont:tamilText "வினைவலியும் தன்வலியும் மாற்றான் வலியும் துணைவலியும் தூக்கிச் செயல்." .
+
+kural:620 a ont:Kural ;
+    ont:englishTranslation "Those who strive tirelessly and persistently will see even fate turn its back on them." ;
+    ont:ethicalFramework "Focus_on_Results" ;
+    ont:evokesEmotion ont:Hope ;
+    ont:hasTheme ont:Hard_Work ;
+    ont:modernScenario "An entrepreneur whose business fails multiple times keeps trying and finally builds a successful company, overcoming all bad luck." ;
+    ont:promotesVirtue ont:Perseverance ;
+    ont:qaAnswer "Yes. If you work hard without giving up, you have the power to overcome even what seems like a bad destiny." ;
+    ont:qaQuestion "Can I change my destiny if I feel like I'm unlucky?" ;
+    ont:tamilText "ஊழையும் உப்பக்கம் காண்பர் உலைவின்றித் தாழாது உஞற்று பவர்." .
+
+kural:786 a ont:Kural ;
+    ont:englishTranslation """Not the face's smile of welcome shows the friend sincere,\r
+But the heart's rejoicing gladness when the friend is near.""" ;
+    ont:ethicalFramework "Focus_on_Character" ;
+    ont:evokesEmotion ont:Warmth ;
+    ont:hasTheme ont:True_Friendship ;
+    ont:modernScenario "Someone has many social media 'friends' who like their posts, but only one true friend who calls to check on them when they are sick." ;
+    ont:promotesVirtue ont:Sincerity ;
+    ont:qaAnswer "A real friend isn't just someone who smiles at you; it's someone who feels genuinely happy for you in their heart." ;
+    ont:qaQuestion "How can I tell who my real friends are?" ;
+    ont:tamilText "முகநக நட்பது நட்பன்று நெஞ்சத்து அகநக நட்பதே நட்பு." .
+
