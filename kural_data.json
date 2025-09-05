@@ -118,5 +118,126 @@
     "modern_scenario": "A relief worker in a disaster zone feels broken by the endless cycle of suffering she witnesses. She finds the strength to continue her work only by grounding herself in deep faith, surrendering the overwhelming burden to a higher power.",
     "qa_question": "How can I escape a situation that feels like a hopeless, repeating cycle?",
     "qa_answer": "You can cross that 'great sea' of struggle only by connecting to a higher power. Those who do not connect with this divine support cannot make it across."
+  },
+  {
+    "kural_id": 11,
+    "tamil_kural": "வான்நின்று உலகம் வழங்கி வருதலால் தான்அமிழ்தம் என்றுணரற் பாற்று.",
+    "eng_translation": "By the continuance of rain the world is preserved in existence; it is therefore worthy to be called ambrosia.",
+    "emotion": "Gratitude",
+    "ethical_framework": "Natural Law",
+    "theme": "The Elixir of Life",
+    "virtue": "Appreciation",
+    "modern_scenario": "A community suffering from a severe drought finally gets rain. The collective sigh of relief, the filling of reservoirs, and the revival of local farms make everyone realize that rain isn't just water—it's the very source of life and prosperity.",
+    "qa_question": "Why is rain described with such a grand word as 'ambrosia'?",
+    "qa_answer": "Because it's the one thing that sustains all life. By calling it 'ambrosia' (the food of gods), the Kural advises us to see rain not as a simple utility, but as a precious, life-giving gift that maintains the world."
+  },
+  {
+    "kural_id": 12,
+    "tamil_kural": "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை.",
+    "eng_translation": "Rain produces good food, and is itself food.",
+    "emotion": "Appreciation",
+    "ethical_framework": "Functionality",
+    "theme": "The Dual Provider",
+    "virtue": "Nourishment",
+    "modern_scenario": "A farmer explains, 'Rain is my business partner. It grows the crops that become food on your table, and it fills the well that gives us the water we drink.' It both creates nourishment and is nourishment itself.",
+    "qa_question": "How can rain be both the food and the maker of food?",
+    "qa_answer": "This shows how essential it is. It is the primary ingredient for agriculture, creating the food we eat. It is also the very drink that quenches our thirst and keeps us alive, making it a form of nourishment itself."
+  },
+  {
+    "kural_id": 13,
+    "tamil_kural": "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து உள்நின்று உடற்றும் பசி.",
+    "eng_translation": "If the cloud, withholding rain, deceive our hopes, hunger will long distress the sea-girt spacious world.",
+    "emotion": "Dread",
+    "ethical_framework": "Consequentialism",
+    "theme": "Our Deep Dependence",
+    "virtue": "Humility",
+    "modern_scenario": "News reports show how a failed monsoon in one part of the world causes global grain prices to soar. This demonstrates that even in our modern, connected world, a lack of rain in a key region can lead to the threat of hunger everywhere.",
+    "qa_question": "With modern technology, are we still so vulnerable to lack of rain?",
+    "qa_answer": "Yes. Technology can manage water, but it cannot create it. Our entire food system is built on the foundation of rain. If the clouds fail to provide, hunger will inevitably become a tormenting reality."
+  },
+  {
+    "kural_id": 14,
+    "tamil_kural": "ஏரின் உழாஅர் உழவர் புயல்என்னும் வாரி வளங்குன்றிக் கால்.",
+    "eng_translation": "If the abundance of wealth imparting rain diminish, the labour of the plough must cease.",
+    "emotion": "Stagnation",
+    "ethical_framework": "Economic Foundation",
+    "theme": "The First Step",
+    "virtue": "Productivity",
+    "modern_scenario": "In a farming region hit by drought, expensive tractors and equipment sit idle. The farmers are ready to work, but without rain, the soil is too hard to plough. The very first step of the entire agricultural economy has come to a halt.",
+    "qa_question": "Why can't farmers work if there's no rain?",
+    "qa_answer": "Because rain softens the earth, making it possible to plough. If that first, essential step cannot be taken, then no other work—planting, growing, harvesting—can follow. All agricultural work depends on it."
+  },
+  {
+    "kural_id": 15,
+    "tamil_kural": "கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே எடுப்பதூஉம் எல்லாம் மழை.",
+    "eng_translation": "Rain by its absence ruins men; and by its existence restores them to fortune.",
+    "emotion": "Awe",
+    "ethical_framework": "Duality",
+    "theme": "The Ultimate Power",
+    "virtue": "Restoration",
+    "modern_scenario": "A region is devastated by years of drought, leading to economic collapse. When the rains finally return, the landscape transforms, businesses reopen, and hope is restored. The very same natural force that caused the ruin becomes the sole agent of recovery.",
+    "qa_question": "How can one thing have the power to both destroy and save?",
+    "qa_answer": "Its power lies in its presence and absence. By withholding itself, rain can ruin livelihoods. By giving itself, it can lift up the very people who were ruined, becoming their greatest support."
+  },
+  {
+    "kural_id": 16,
+    "tamil_kural": "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது.",
+    "eng_translation": "If no drop falls from the clouds, not even the green blade of grass will be seen.",
+    "emotion": "Clarity",
+    "ethical_framework": "First Principles",
+    "theme": "The Spark of Life",
+    "virtue": "Foundation",
+    "modern_scenario": "After a long, dry winter, a city park is just a field of brown dust. After the first spring shower, you can see a faint green haze as new grass begins to sprout. It’s a simple, powerful visual of how life cannot begin without that first drop.",
+    "qa_question": "Why is a single blade of grass so significant?",
+    "qa_answer": "It represents the most basic level of life in the food chain. If even a humble blade of grass cannot exist without rain, it proves that no other, more complex life is possible either. It's the ultimate evidence of our dependence."
+  },
+  {
+    "kural_id": 17,
+    "tamil_kural": "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி தான்நல்கா தாகி விடின்.",
+    "eng_translation": "Even the wealth of the wide sea will be diminished, if the cloud that has drawn its waters up gives them not back again in rain.",
+    "emotion": "Wonder",
+    "ethical_framework": "Systems Thinking",
+    "theme": "The Great Cycle",
+    "virtue": "Balance",
+    "modern_scenario": "A marine biologist explains that reduced rainfall on land means less freshwater flows from rivers into the sea. This can change the salinity and nutrient balance of coastal waters, harming fish populations. Even the mighty ocean depends on the rain cycle to maintain its health.",
+    "qa_question": "How can the huge ocean be affected by rain?",
+    "qa_answer": "It reminds us that everything is connected in a cycle. The clouds take water from the sea, but the sea needs that water to be returned via rain and rivers to maintain its character and support marine life. If the cycle is broken, even the ocean suffers."
+  },
+  {
+    "kural_id": 18,
+    "tamil_kural": "சிறப்பொடு பூசனை செல்லாது வானம் வறக்குமேல் வானோர்க்கும் ஈண்டு.",
+    "eng_translation": "If the heaven dry up, neither yearly festivals, nor daily worship will be offered in this world, to the celestials.",
+    "emotion": "Concern",
+    "ethical_framework": "Social Consequence",
+    "theme": "Prosperity and Practice",
+    "virtue": "Devotion",
+    "modern_scenario": "A community has to cancel its annual harvest festival because a drought has left everyone with no surplus to celebrate or offer. This shows that our cultural and spiritual practices are often dependent on the prosperity that nature provides.",
+    "qa_question": "Are religious rituals really dependent on the weather?",
+    "qa_answer": "The Kural points to a practical truth. Acts of worship, festivals, and offerings require resources. When nature doesn't provide abundance due to lack of rain, people must focus on survival, and these important social and spiritual activities cannot be sustained."
+  },
+  {
+    "kural_id": 19,
+    "tamil_kural": "தானம் தவம்இரண்டும் தங்கா வியன்உலகம் வானம் வழங்கா தெனின்.",
+    "eng_translation": "If rain fall not, penance and alms-deeds will not dwell within this spacious world.",
+    "emotion": "Seriousness",
+    "ethical_framework": "Hierarchy of Needs",
+    "theme": "Survival Before Virtue",
+    "virtue": "Charity",
+    "modern_scenario": "In a famine, charitable organizations find it hard to function. People have nothing left to give (charity fails), and those who might normally practice spiritual disciplines like fasting must focus all their energy on finding food to survive.",
+    "qa_question": "Why can't people be charitable or spiritual during hard times?",
+    "qa_answer": "Because charity requires having a surplus to give, and spiritual discipline requires a stable mind not consumed by the struggle for survival. The Kural advises that without the stability provided by rain, these higher virtues cannot take root in society."
+  },
+  {
+    "kural_id": 20,
+    "tamil_kural": "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும் வான்இன்று அமையாது ஒழுக்கு.",
+    "eng_translation": "If it be said that the duties of life cannot be discharged by any person without water, so without rain there cannot be the flowing of water.",
+    "emotion": "Insight",
+    "ethical_framework": "Social Order",
+    "theme": "The Foundation of Society",
+    "virtue": "Order",
+    "modern_scenario": "Historians note that many societal collapses were preceded by prolonged droughts. The scarcity of resources led to conflict, the breakdown of laws, and the erosion of ethical norms. Just as the world cannot run without water, a society cannot maintain order (`Ozhukku`) without the stability that rain provides.",
+    "qa_question": "What does rain have to do with morality and social discipline?",
+    "qa_answer": "The link is stability. A well-ordered, ethical society requires that people's basic needs are met. Rain is the foundation of that stability. When it fails, the resulting desperation and conflict can cause the very fabric of social order and morality to unravel."
   }
+
 ]
